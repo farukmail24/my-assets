@@ -1,0 +1,11 @@
+{
+  "version": "1.2.0",
+  "versionCode": 12,
+  "releaseDate": "2026-10-10",
+  "apkName": "Poripaty-CRM-v1.2.0.apk",
+  "apkUrl": "https://raw.githubusercontent.com/farukmail24/my-assets/main/poripaty-crm/apk/Poripaty-CRM-v1.2.0.apk",
+  "downloadUrl": "https://github.com/farukmail24/my-assets/raw/main/poripaty-crm/apk/Poripaty-CRM-v1.2.0.apk",
+  "apkSize": "39.8 MB",
+  "forceUpdate": false,
+  "releaseNotes": "• Real-time Agenda Today Cockpit reflects today's completed field visits & client meetings\n• Parallelized sales workspace query engine (<40ms latency)\n• Leads multi-criteria label filtering fix\n• White-label enterprise cloud release channel"
+}
