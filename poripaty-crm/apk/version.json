@@ -1,11 +1,11 @@
 {
-  "version": "1.2.0",
-  "versionCode": 12,
-  "releaseDate": "2026-10-10",
-  "apkName": "Poripaty-CRM-v1.2.0.apk",
-  "apkUrl": "https://raw.githubusercontent.com/farukmail24/my-assets/main/poripaty-crm/apk/Poripaty-CRM-v1.2.0.apk",
-  "downloadUrl": "https://github.com/farukmail24/my-assets/raw/main/poripaty-crm/apk/Poripaty-CRM-v1.2.0.apk",
+  "version": "1.3.0",
+  "versionCode": 13,
+  "releaseDate": "2026-10-11",
+  "apkName": "Poripaty-CRM-v1.3.0.apk",
+  "apkUrl": "https://raw.githubusercontent.com/farukmail24/my-assets/main/poripaty-crm/apk/Poripaty-CRM-v1.3.0.apk",
+  "downloadUrl": "https://github.com/farukmail24/my-assets/raw/main/poripaty-crm/apk/Poripaty-CRM-v1.3.0.apk",
   "apkSize": "39.8 MB",
   "forceUpdate": false,
-  "releaseNotes": "• Real-time Agenda Today Cockpit reflects today's completed field visits & client meetings\n• Parallelized sales workspace query engine (<40ms latency)\n• Leads multi-criteria label filtering fix\n• White-label enterprise cloud release channel"
+  "releaseNotes": "• Dynamic Live Google Maps places autocomplete & geocoding for route stops\n• 12-hour AM/PM follow-up scheduling with quick meeting time chips & badges\n• Quick Destination Category with custom errand 'Others' option\n• Responsive GPS coordinate locator layout fixes\n• Full MySQL/PostgreSQL datetime normalization & backend follow-up completion sync"
 }
